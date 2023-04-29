@@ -8,4 +8,6 @@ Professores:
 
 Projeto utlizado nas aulas de HTML e CSS visando aprender a utilização do GRID e FLEXBOX.    
 
-![lobos](https://user-images.githubusercontent.com/38328964/235322810-14d1221f-e545-46a3-8286-fe79ed22ae78.png)
+
+
+![lob2](https://user-images.githubusercontent.com/38328964/235322895-c16615cb-9f73-4f8d-b5f5-47d3909fb839.png)
